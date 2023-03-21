@@ -1,0 +1,14 @@
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\bin\Debug\ZippingFolder.exe.config
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\bin\Debug\ZippingFolder.exe
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\bin\Debug\ZippingFolder.pdb
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\bin\Debug\Entities.dll
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\bin\Debug\Entities.pdb
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.csproj.AssemblyReference.cache
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.Form1.resources
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.Properties.Resources.resources
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.csproj.GenerateResource.cache
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.csproj.CoreCompileInputs.cache
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.csproj.CopyComplete
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.exe
+C:\Users\nuhah\source\repos\ZippingFolder\ZippingFolder\obj\Debug\ZippingFolder.pdb
