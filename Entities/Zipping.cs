@@ -9,7 +9,7 @@ namespace Entities
 {
     public class Zipping
     {
-		public static void ZipFolder(string sourcePath, string destinationPath)
+		public void ZipFolder(string sourcePath, string destinationPath)
 		{
 			try
 			{

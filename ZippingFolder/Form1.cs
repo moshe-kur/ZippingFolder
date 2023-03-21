@@ -26,7 +26,9 @@ namespace ZippingFolder
             }
             else
             {
-				Zipping.ZipFolder(textBox1.Text, textBox1.Text);
+				Zipping zipping = new Zipping();
+				zipping.ZipFolder(textBox1.Text, textBox1.Text);
+				//Zipping.ZipFolder(textBox1.Text, textBox1.Text);
             }
         }
 	}
